@@ -28,6 +28,7 @@ With deep understanding of algorithms and data structures. Interested in creatin
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+[![codewars](https://www.codewars.com/users/OleksandrKamniev/badges/large)](https://www.codewars.com/users/OleksandrKamniev)
 
 ## Social Media:
 
